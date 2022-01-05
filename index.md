@@ -10,6 +10,8 @@
 ### Major Contribution
 **Yutong Zheng**, Dipan K. Pal and Marios Savvides, [Ring loss: Convex Feature Normalization for Face Recognition](https://arxiv.org/abs/1803.00130), CVPR 2018, [poster](https://yutongzheng.github.io/pdf/CVPR2018PosterRingLoss42x87.pdf)
 
+**Yutong Zheng**, Yu-Kai Huang, Ran Tao, Zhiqiang Shen, and Marios Savvides. [Unsupervised Disentanglement of Linear-Encoded Facial Semantics](https://arxiv.org/abs/2103.16605), CVPR 2021, [poster](https://yutongzheng.github.io/pdf/Unsupervised_disentanglement_cvpr21_poster.pdf)
+
 ---
 
 ### Other Publications
