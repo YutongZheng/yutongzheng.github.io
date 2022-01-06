@@ -14,6 +14,8 @@
 
 Chenchen Zhu*, **Yutong Zheng***, Khoa Luu, and Marios Savvides. [Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection.](https://arxiv.org/abs/1606.05413) In Deep learning for biometrics, pp. 57-79. Springer, Cham, 2017.
 
+**Yutong Zheng**, Chenchen Zhu, Khoa Luu, Chandrasekhar Bhagavatula, T. Hoang Ngan Le, and Marios Savvides. [Towards a deep learning framework for unconstrained face detection.](https://arxiv.org/abs/1612.05322) BTAS 2016.
+
 ---
 
 ### Other Publications
