@@ -12,7 +12,7 @@
 
 **Yutong Zheng**, Yu-Kai Huang, Ran Tao, Zhiqiang Shen, and Marios Savvides. [Unsupervised Disentanglement of Linear-Encoded Facial Semantics](https://arxiv.org/abs/2103.16605), CVPR 2021, [poster](https://yutongzheng.github.io/pdf/Unsupervised_disentanglement_cvpr21_poster.pdf)
 
-Chenchen Zhu*, **Yutong Zheng\***, Khoa Luu, and Marios Savvides. "Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection." In Deep learning for biometrics, pp. 57-79. Springer, Cham, 2017.
+Chenchen Zhu*, **Yutong Zheng**, Khoa Luu, and Marios Savvides. "Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection." In Deep learning for biometrics, pp. 57-79. Springer, Cham, 2017.
 ---
 
 ### Other Publications
