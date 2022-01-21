@@ -39,7 +39,7 @@ T. Hoang Ngan Le, **Yutong Zheng**, Chenchen Zhu, Khoa Luu, and Marios Savvides.
 
 ---
 
-##Patents
+## Patents
 
 Marios Savvides, Khoa Luu, **Yutong Zheng**, and Chenchen Zhu. [Methods and software for detecting objects in images using a multiscale fast region-based convolutional neural network.](https://worldwide.espacenet.com/patent/search?q=pn%3DUS10354362B2) U.S. Patent 10354362, issued July 16, 2019.
 
