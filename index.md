@@ -3,6 +3,7 @@
 ---
 
 ## Academic Services
+Regularly serve as a reviewer for CVPR, ICCV, ECCV, WACV, AAAI. 
 
 ---
 
