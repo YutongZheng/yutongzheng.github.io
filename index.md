@@ -1,5 +1,5 @@
 ## About
-Before you judge, seek to understand. 
+"Before you judge, seek to understand."
 
 I'm a senior Ph.D. student from the ECE department at Carnegie Mellon University. My current interests lie broadly in the intersection of generative model, computer vision and semantic disentanglement. I worked with Prof. Marios Savvides, at the CyLab Biometrics Center. I also work closely with Oosto, a visual AI company (formerly AnyVision), taking charge of cooperative tasks under [Dr. Guosheng Hu](https://www.linkedin.com/in/guosheng-hu-6801b333/?originalSubdomain=uk). Some of my previous works were put into application in Bossa Nova Robotics and the government issued projects for criminal investigation. 
 
