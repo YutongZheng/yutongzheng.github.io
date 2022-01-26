@@ -50,7 +50,7 @@ Marios Savvides, Khoa Luu, **Yutong Zheng**, and Chenchen Zhu. [Methods and soft
 Marios Savvides, Dipan Kumar Pal, **Yutong Zheng**. [Convex Feature Normalization for Face Recognition.](https://worldwide.espacenet.com/patent/search?q=pn%3DUS2021034984A1) 
 U.S. Patent 2021034984, issued Feburary 04, 2021.
 
-### Category Name 1 
+<!-- ### Category Name 1 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -74,7 +74,7 @@ U.S. Patent 2021034984, issued Feburary 04, 2021.
 - [Project 5 Title](http://example.com/)
 
 ---
-
+ -->
 
 
 
