@@ -47,10 +47,12 @@ T. Hoang Ngan Le, **Yutong Zheng**, Chenchen Zhu, Khoa Luu, and Marios Savvides.
 
 ## Patents
 
-Marios Savvides, Khoa Luu, **Yutong Zheng**, and Chenchen Zhu. [Methods and software for detecting objects in images using a multiscale fast region-based convolutional neural network.](https://worldwide.espacenet.com/patent/search?q=pn%3DUS10354362B2) U.S. Patent 10354362, issued July 16, 2019.
+Marios Savvides, Khoa Luu, **Yutong Zheng**, and Chenchen Zhu. [Methods and software for detecting objects in images using a multiscale fast region-based convolutional neural network.](https://patents.google.com/patent/US10354362B2) U.S. Patent 10354362, Published 2019-07-16.
 
-Marios Savvides, Dipan Kumar Pal, **Yutong Zheng**. [Convex Feature Normalization for Face Recognition.](https://worldwide.espacenet.com/patent/search?q=pn%3DUS2021034984A1) 
-U.S. Patent 2021034984, issued Feburary 04, 2021.
+Marios Savvides, Dipan Kumar Pal, **Yutong Zheng**. [Convex Feature Normalization for Face Recognition.](https://patents.google.com/patent/US20210034984A1) 
+U.S. Patent 2021034984, Published 2021-11-17.
+
+Marios Savvides, Sreena Nallamothu, Magesh Kannan, Uzair Ahmed, Ran Tao, **Yutong Zheng**. [System and method for identifying misplaced products in a shelf management system](https://patents.google.com/patent/US20220051177A1) U.S. Patent 20220051177, published 2022-02-17.
 
 <!-- ### Category Name 1 
 
