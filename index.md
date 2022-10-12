@@ -54,6 +54,10 @@ U.S. Patent 2021034984, Published 2021-11-17.
 
 Marios Savvides, Sreena Nallamothu, Magesh Kannan, Uzair Ahmed, Ran Tao, **Yutong Zheng**. [System and method for identifying misplaced products in a shelf management system](https://patents.google.com/patent/US20220051177A1) U.S. Patent 20220051177, published 2022-02-17.
 
+Marios Savvides, **Yutong Zheng**, Yu Kai Huang. [System and method for class-identity-preserving data augmentation](https://patents.google.com/patent/WO2022173820A2) Publication of WO2022173820A2, published 2022-08-18. 
+
+Marios Savvides, **Yutong Zheng**, Yu Kai Huang. [System and method for photorealistic image synthesis using unsupervised semantic feature disentanglement](https://patents.google.com/patent/WO2022173814A1) Publication of WO2022173814A1, published 2022-08-18. 
+
 <!-- ### Category Name 1 
 
 [Project 1 Title](/sample_page)
